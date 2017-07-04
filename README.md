@@ -1,4 +1,4 @@
-Reproducer for issue [https://issues.jboss.org/browse/DROOLS-1645]()
+Reproducer for issue <https://issues.jboss.org/browse/DROOLS-1645>
 
 
 Run 
